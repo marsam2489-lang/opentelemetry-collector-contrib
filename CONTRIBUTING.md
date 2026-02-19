@@ -1,4 +1,4 @@
-# Contributing
+# Contributing of Achon Chon Stuff
 
 If you would like to contribute please read OpenTelemetry core Collector [contributing
 guidelines](https://github.com/open-telemetry/opentelemetry-collector/blob/main/CONTRIBUTING.md)
